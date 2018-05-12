@@ -1,0 +1,41 @@
+_repo: Ireland-in-the-Days-of-Dean-SwiftIrish-Tracts-1720-to-1734_37156
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37156-h/images/back_cover.jpg
+creator:
+  authors:
+  - agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  - agent_name: Daly, J. Bowles (John Bowles)
+    alias: Daly, John Bowles
+    gutenberg_agent_id: '38683'
+    url: http://www.gutenberg.org/2009/agents/38683
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History -- 18th century'
+- !lcsh 'Swift, Jonathan, 1667-1745'
+- !lcc 'PR'
+tableOfContents: Introduction -- The drapier's letters -- The address to the jury
+  -- Swift's description of Quilca -- Answer to a paper -- Maxims controlled -- A
+  short view of the state of Ireland, 1727 -- The story of the injured lady -- The
+  answer to the injured lady -- A letter to the Archbishop of Dublin, concerning the
+  weavers -- Two letters on subjects relative to the improvement of Ireland -- The
+  present miserable state of Ireland -- "A proposal for the universal use of Irish
+  manufactures" -- A modest proposal, 1729 -- A character, panegyric, and description
+  of the Legion club, 1736 -- On doing good.
+title: Ireland in the Days of Dean Swift (Irish Tracts, 1720 to 1734)
+url: http://www.gutenberg.org/ebooks/37156
